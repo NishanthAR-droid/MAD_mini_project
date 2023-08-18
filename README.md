@@ -29,7 +29,7 @@ The **Plant Disease Detection** application is an Android app developed using Ko
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/RAHUL-R10/MAD_mini_project.git
+   git clone https://github.com/NishanthAR-droid/MAD_mini_project.git
    ```
 2. Open the project in Android Studio.
 3. Build and run the app on an Android device or emulator.
