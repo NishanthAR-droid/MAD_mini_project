@@ -1,62 +1,33 @@
 {
   "project_info": {
-    "project_number": "305106149747",
-    "project_id": "login-signup-arn",
-    "storage_bucket": "login-signup-arn.appspot.com"
+    "project_number": "1038368230302",
+    "project_id": "plant-disease-detection-50949",
+    "storage_bucket": "plant-disease-detection-50949.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:305106149747:android:c712f67279dad4461da506",
+        "mobilesdk_app_id": "1:1038368230302:android:e8d1f92820e75d7a1fe48f",
         "android_client_info": {
           "package_name": "com.example.plant_diseasedetection"
         }
       },
       "oauth_client": [
         {
-          "client_id": "305106149747-i1kp7jfmmdd2ksqm8ue2h71r7d8k7jrl.apps.googleusercontent.com",
+          "client_id": "1038368230302-73d48lli7fh2mhshimki72piprs234a7.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCUNe2gi2uWbTrBL-7eLOfY4lHUfHuv3aw"
+          "current_key": "AIzaSyBCAAS5Lm_z3KtskcnKTAckjZRWY4lp_6A"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "305106149747-i1kp7jfmmdd2ksqm8ue2h71r7d8k7jrl.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:305106149747:android:10a17dc5392606fb1da506",
-        "android_client_info": {
-          "package_name": "com.example.plantdiseasedetection"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "305106149747-i1kp7jfmmdd2ksqm8ue2h71r7d8k7jrl.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCUNe2gi2uWbTrBL-7eLOfY4lHUfHuv3aw"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "305106149747-i1kp7jfmmdd2ksqm8ue2h71r7d8k7jrl.apps.googleusercontent.com",
+              "client_id": "1038368230302-73d48lli7fh2mhshimki72piprs234a7.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
